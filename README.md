@@ -3,12 +3,12 @@
 # Front end Web Development Professional
 
 ## Project name:
-##- Weather-Journal App Project
+ - ## Weather-Journal App Project
 ## Project description
 
 This project mission is to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
-##ScreenShots
+## ScreenShots
 
 <img src="website/resources/Start-shot.png" alt="weather app project - shot 1" style="float: left;">
 
@@ -17,7 +17,7 @@ This project mission is to create an asynchronous web app that uses Web API and 
 ## languages
 HTML, CSS, Javascript
 
-##Project features
+## Project features
 This project is a quick practice of setting a server and routing a public API (open weather map) with your website to get info dynamically. Main practices in this proejct are:
 
 1. API and API key
